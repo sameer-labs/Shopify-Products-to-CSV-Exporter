@@ -1,0 +1,28 @@
+product_id,title,vendor,sku,price,inventory_quantity,status
+7784055046205,Blue 'liquid' skateboard,My-Test-Shop,,20.00,0,active
+7784054128701,Gift Card,Snowboard Vendor,,10.00,0,active
+7784054128701,Gift Card,Snowboard Vendor,,25.00,0,active
+7784054128701,Gift Card,Snowboard Vendor,,50.00,0,active
+7784054128701,Gift Card,Snowboard Vendor,,100.00,0,active
+7784054456381,Selling Plans Ski Wax,My-Test-Shop,,24.95,10,active
+7784054456381,Selling Plans Ski Wax,My-Test-Shop,,49.95,10,active
+7784054456381,Selling Plans Ski Wax,My-Test-Shop,,9.95,10,active
+7784054554685,The 3p Fulfilled Snowboard,My-Test-Shop,sku-hosted-1,2629.95,20,active
+7784054194237,The Archived Snowboard,Snowboard Vendor,,629.95,50,archived
+7784054292541,The Collection Snowboard: Hydrogen,Hydrogen Vendor,,600.00,50,active
+7784054620221,The Collection Snowboard: Liquid,Hydrogen Vendor,,749.95,50,active
+7784054489149,The Collection Snowboard: Oxygen,Hydrogen Vendor,,1025.00,50,active
+7784054423613,The Compare at Price Snowboard,My-Test-Shop,,785.95,10,active
+7784054227005,The Complete Snowboard,Snowboard Vendor,,699.95,10,active
+7784054227005,The Complete Snowboard,Snowboard Vendor,,699.95,10,active
+7784054227005,The Complete Snowboard,Snowboard Vendor,,699.95,10,active
+7784054227005,The Complete Snowboard,Snowboard Vendor,,699.95,10,active
+7784054227005,The Complete Snowboard,Snowboard Vendor,,699.95,10,active
+7784054390845,The Draft Snowboard,Snowboard Vendor,,2629.95,20,draft
+7784054259773,The Hidden Snowboard,Snowboard Vendor,,749.95,50,active
+7784054095933,The Inventory Not Tracked Snowboard,My-Test-Shop,sku-untracked-1,949.95,0,active
+7784054161469,The Minimal Snowboard,My-Test-Shop,,885.95,50,active
+7784054521917,The Multi-location Snowboard,My-Test-Shop,,729.95,100,active
+7784054587453,The Multi-managed Snowboard,Multi-managed Vendor,sku-managed-1,629.95,100,active
+7784054325309,The Out of Stock Snowboard,My-Test-Shop,,885.95,0,active
+7784054358077,The Videographer Snowboard,My-Test-Shop,,885.95,50,active
